@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Santur Track</string>
+    <string name="app_label">Santur Track</string>
+    <string name="txtLog">LOG</string>
+    <string name="txtOutput">TEXT</string>
+    <string name="btnOK">OK</string>
+
+    <string name="defBtn">OnClick</string>
+
+</resources>
